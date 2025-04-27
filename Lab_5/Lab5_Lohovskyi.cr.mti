@@ -1,0 +1,15 @@
+D:/ModelSim/modelsim_ase/examples/Lab5_Lohovskyi/decoder8.v {1 {vlog -work work -nocovercells D:/ModelSim/modelsim_ase/examples/Lab5_Lohovskyi/decoder8.v
+Model Technology ModelSim ALTERA vlog 6.5b Compiler 2009.10 Oct  1 2009
+-- Compiling module decoder8
+
+Top level modules:
+	decoder8
+
+} {} {}} D:/ModelSim/modelsim_ase/examples/Lab5_Lohovskyi/decoder8_tb.v {1 {vlog -work work -nocovercells D:/ModelSim/modelsim_ase/examples/Lab5_Lohovskyi/decoder8_tb.v
+Model Technology ModelSim ALTERA vlog 6.5b Compiler 2009.10 Oct  1 2009
+-- Compiling module decoder8_tb
+
+Top level modules:
+	decoder8_tb
+
+} {} {}}
