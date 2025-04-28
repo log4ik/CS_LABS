@@ -1,0 +1,10 @@
+D:/ModelSim/modelsim_ase/examples/Lab6_Lohovskyi_self/adder5.vhd {1 {vcom -work work -2002 -explicit D:/ModelSim/modelsim_ase/examples/Lab6_Lohovskyi_self/adder5.vhd
+Model Technology ModelSim ALTERA vcom 6.5b Compiler 2009.10 Oct  1 2009
+-- Loading package standard
+-- Loading package std_logic_1164
+-- Loading package std_logic_arith
+-- Loading package std_logic_unsigned
+-- Compiling entity adder5
+-- Compiling architecture behavioral of adder5
+
+} {} {}}
